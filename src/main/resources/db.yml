@@ -1,0 +1,5 @@
+schemaName: hms_db
+driverClassName: com.mysql.jdbc.Driver
+url: jdbc:mysql://localhost:3306/hms_db
+username: root
+password: root
